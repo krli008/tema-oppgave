@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tema-oppgave/static/css/main.14a31a89.chunk.css",
+    "main.js": "/tema-oppgave/static/js/main.816a783b.chunk.js",
+    "main.js.map": "/tema-oppgave/static/js/main.816a783b.chunk.js.map",
+    "runtime-main.js": "/tema-oppgave/static/js/runtime-main.2f790c18.js",
+    "runtime-main.js.map": "/tema-oppgave/static/js/runtime-main.2f790c18.js.map",
+    "static/js/2.3968d37f.chunk.js": "/tema-oppgave/static/js/2.3968d37f.chunk.js",
+    "static/js/2.3968d37f.chunk.js.map": "/tema-oppgave/static/js/2.3968d37f.chunk.js.map",
+    "index.html": "/tema-oppgave/index.html",
+    "precache-manifest.17ca22ee83581cfcb49223b918118e47.js": "/tema-oppgave/precache-manifest.17ca22ee83581cfcb49223b918118e47.js",
+    "service-worker.js": "/tema-oppgave/service-worker.js",
+    "static/css/main.14a31a89.chunk.css.map": "/tema-oppgave/static/css/main.14a31a89.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f790c18.js",
+    "static/js/2.3968d37f.chunk.js",
+    "static/css/main.14a31a89.chunk.css",
+    "static/js/main.816a783b.chunk.js"
+  ]
+}
